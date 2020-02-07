@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/APache"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/rd/Apache POI Libs/jlayer1.0.1.zip"/>
+	<classpathentry kind="lib" path="/home/rd/Apache POI Libs/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/rd/Apache POI Libs/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="/home/rd/Apache POI Libs/poi-4.1.1/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/rd/Apache POI Libs/poi-4.1.1/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/rd/Apache POI Libs/poi-4.1.1/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/rd/Apache POI Libs/commons-collections4-4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
